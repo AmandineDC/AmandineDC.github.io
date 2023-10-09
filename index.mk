@@ -28,5 +28,4 @@ Je suis à la recherche de nouvelles expériences pour approfondir mes compéten
 - Zettlr
 
 ## Contact
-- Email: exemple@email.com
-- LinkedIn: [Mon LinkedIn](https://www.linkedin.com/in/monprofil/)
+- Email: amandine.ducroscervos@gmail.com
